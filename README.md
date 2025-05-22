@@ -53,11 +53,11 @@ The login page allows switching between languages:
 1. Clone this repository:
     Open a terminal or GitHub Desktop and clone the project repository
 ```bash
+git clone https://github.com/your-username/StoreManagement.git
 
 ---
 
 ##  Screenshots
 
 ###  Login Page
-![Login Page](images/login-page.png)  
 User and Admin login interface with language selection (RO/EN).
