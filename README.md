@@ -63,7 +63,7 @@ User can view available products and initiate purchase.
 ---
 
 ###  User Interface – Purchase Example
-![User Purchase](images/user-purchase-confirmation.png)  
+![User Purchase](images/user-purchase-confirmation.jpg)  
 Successful product purchase with confirmation message.
 
 ---
