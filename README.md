@@ -96,7 +96,7 @@ Admin can delete users or manage their data by username.
 ---
 
 ###  Admin Panel – View Sales History
-![Admin Sales History](images/admin-sales-history.png)  
+![Admin Sales History](images/admin-sales-history)  
 Admin view of purchase history.
 
 ---
