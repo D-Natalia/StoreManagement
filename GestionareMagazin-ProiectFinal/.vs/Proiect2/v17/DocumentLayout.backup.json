@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Natalia\\Desktop\\GitHub_Repo\\StoreManagement\\GestionareMagazin-ProiectFinal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{34322A39-F937-41DB-A894-BAF1BD8BA385}|Proiect2\\Proiect2.csproj|C:\\Users\\Natalia\\Desktop\\GitHub_Repo\\StoreManagement\\GestionareMagazin-ProiectFinal\\proiect2\\utilizatorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{34322A39-F937-41DB-A894-BAF1BD8BA385}|Proiect2\\Proiect2.csproj|solutionrelative:proiect2\\utilizatorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{34322A39-F937-41DB-A894-BAF1BD8BA385}|Proiect2\\Proiect2.csproj|C:\\Users\\Natalia\\Desktop\\GitHub_Repo\\StoreManagement\\GestionareMagazin-ProiectFinal\\proiect2\\contnou.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34322A39-F937-41DB-A894-BAF1BD8BA385}|Proiect2\\Proiect2.csproj|solutionrelative:proiect2\\contnou.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34322A39-F937-41DB-A894-BAF1BD8BA385}|Proiect2\\Proiect2.csproj|c:\\users\\natalia\\desktop\\github_repo\\storemanagement\\gestionaremagazin-proiectfinal\\proiect2\\utilizatorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34322A39-F937-41DB-A894-BAF1BD8BA385}|Proiect2\\Proiect2.csproj|solutionrelative:proiect2\\utilizatorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{34322A39-F937-41DB-A894-BAF1BD8BA385}|Proiect2\\Proiect2.csproj|C:\\Users\\Natalia\\Desktop\\GitHub_Repo\\StoreManagement\\GestionareMagazin-ProiectFinal\\proiect2\\contnou.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{34322A39-F937-41DB-A894-BAF1BD8BA385}|Proiect2\\Proiect2.csproj|solutionrelative:proiect2\\contnou.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{34322A39-F937-41DB-A894-BAF1BD8BA385}|Proiect2\\Proiect2.csproj|C:\\Users\\Natalia\\Desktop\\GitHub_Repo\\StoreManagement\\GestionareMagazin-ProiectFinal\\proiect2\\vanzare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{34322A39-F937-41DB-A894-BAF1BD8BA385}|Proiect2\\Proiect2.csproj|solutionrelative:proiect2\\vanzare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34322A39-F937-41DB-A894-BAF1BD8BA385}|Proiect2\\Proiect2.csproj|c:\\users\\natalia\\desktop\\github_repo\\storemanagement\\gestionaremagazin-proiectfinal\\proiect2\\utilizatorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{34322A39-F937-41DB-A894-BAF1BD8BA385}|Proiect2\\Proiect2.csproj|solutionrelative:proiect2\\utilizatorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34322A39-F937-41DB-A894-BAF1BD8BA385}|Proiect2\\Proiect2.csproj|C:\\Users\\Natalia\\Desktop\\GitHub_Repo\\StoreManagement\\GestionareMagazin-ProiectFinal\\proiect2\\utilizatorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34322A39-F937-41DB-A894-BAF1BD8BA385}|Proiect2\\Proiect2.csproj|solutionrelative:proiect2\\utilizatorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{34322A39-F937-41DB-A894-BAF1BD8BA385}|Proiect2\\Proiect2.csproj|C:\\Users\\Natalia\\Desktop\\GitHub_Repo\\StoreManagement\\GestionareMagazin-ProiectFinal\\proiect2\\resetareparola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -21,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{34322A39-F937-41DB-A894-BAF1BD8BA385}|Proiect2\\Proiect2.csproj|C:\\Users\\Natalia\\Desktop\\GitHub_Repo\\StoreManagement\\GestionareMagazin-ProiectFinal\\proiect2\\cumparare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{34322A39-F937-41DB-A894-BAF1BD8BA385}|Proiect2\\Proiect2.csproj|solutionrelative:proiect2\\cumparare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34322A39-F937-41DB-A894-BAF1BD8BA385}|Proiect2\\Proiect2.csproj|C:\\Users\\Natalia\\Desktop\\GitHub_Repo\\StoreManagement\\GestionareMagazin-ProiectFinal\\proiect2\\contnou.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{34322A39-F937-41DB-A894-BAF1BD8BA385}|Proiect2\\Proiect2.csproj|solutionrelative:proiect2\\contnou.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{34322A39-F937-41DB-A894-BAF1BD8BA385}|Proiect2\\Proiect2.csproj|C:\\Users\\Natalia\\Desktop\\GitHub_Repo\\StoreManagement\\GestionareMagazin-ProiectFinal\\proiect2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -63,10 +67,6 @@
       "RelativeMoniker": "D:0:0:{34322A39-F937-41DB-A894-BAF1BD8BA385}|Proiect2\\Proiect2.csproj|solutionrelative:proiect2\\logare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34322A39-F937-41DB-A894-BAF1BD8BA385}|Proiect2\\Proiect2.csproj|C:\\Users\\Natalia\\Desktop\\GitHub_Repo\\StoreManagement\\GestionareMagazin-ProiectFinal\\proiect2\\contnou.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34322A39-F937-41DB-A894-BAF1BD8BA385}|Proiect2\\Proiect2.csproj|solutionrelative:proiect2\\contnou.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{34322A39-F937-41DB-A894-BAF1BD8BA385}|Proiect2\\Proiect2.csproj|C:\\Users\\Natalia\\Desktop\\GitHub_Repo\\StoreManagement\\GestionareMagazin-ProiectFinal\\proiect2\\cumparare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34322A39-F937-41DB-A894-BAF1BD8BA385}|Proiect2\\Proiect2.csproj|solutionrelative:proiect2\\cumparare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -102,7 +102,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -114,39 +114,63 @@
               "Title": "Vanzare.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\GitHub_Repo\\StoreManagement\\GestionareMagazin-ProiectFinal\\Proiect2\\Vanzare.cs",
               "RelativeDocumentMoniker": "Proiect2\\Vanzare.cs",
-              "ToolTip": "C:\\Users\\Natalia\\Desktop\\INFO an 2\\Medii si instrumente de programare\\GestionareMagazin-ProiectFinal\\Proiect2\\Vanzare.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\INFO an 2\\Medii si instrumente de programare\\GestionareMagazin-ProiectFinal\\Proiect2\\Vanzare.cs [Design]",
+              "ToolTip": "C:\\Users\\Natalia\\Desktop\\GitHub_Repo\\StoreManagement\\GestionareMagazin-ProiectFinal\\Proiect2\\Vanzare.cs [Design]",
+              "RelativeToolTip": "Proiect2\\Vanzare.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T14:02:30.274Z"
+              "WhenOpened": "2025-01-15T14:02:30.274Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "UtilizatorForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\GitHub_Repo\\StoreManagement\\GestionareMagazin-ProiectFinal\\Proiect2\\UtilizatorForm.cs",
               "RelativeDocumentMoniker": "Proiect2\\UtilizatorForm.cs",
-              "ToolTip": "C:\\Users\\Natalia\\Desktop\\GitHub_Repo\\StoreManagement\\GestionareMagazin-ProiectFinal\\Proiect2\\UtilizatorForm.cs [Design]*",
-              "RelativeToolTip": "Proiect2\\UtilizatorForm.cs [Design]*",
+              "ToolTip": "C:\\Users\\Natalia\\Desktop\\GitHub_Repo\\StoreManagement\\GestionareMagazin-ProiectFinal\\Proiect2\\UtilizatorForm.cs [Design]",
+              "RelativeToolTip": "Proiect2\\UtilizatorForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-14T18:25:25.271Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UtilizatorForm.cs",
-              "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\GitHub_Repo\\StoreManagement\\GestionareMagazin-ProiectFinal\\Proiect2\\UtilizatorForm.cs",
-              "RelativeDocumentMoniker": "Proiect2\\UtilizatorForm.cs",
-              "ToolTip": "C:\\Users\\Natalia\\Desktop\\GitHub_Repo\\StoreManagement\\GestionareMagazin-ProiectFinal\\Proiect2\\UtilizatorForm.cs*",
-              "RelativeToolTip": "Proiect2\\UtilizatorForm.cs*",
-              "ViewState": "AgIAAA4AAACAZmZmZmY9wCQAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "Cumparare.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\GitHub_Repo\\StoreManagement\\GestionareMagazin-ProiectFinal\\Proiect2\\Cumparare.cs",
+              "RelativeDocumentMoniker": "Proiect2\\Cumparare.cs",
+              "ToolTip": "C:\\Users\\Natalia\\Desktop\\INFO an 2\\Medii si instrumente de programare\\GestionareMagazin-ProiectFinal\\Proiect2\\Cumparare.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\INFO an 2\\Medii si instrumente de programare\\GestionareMagazin-ProiectFinal\\Proiect2\\Cumparare.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T18:26:16.861Z",
+              "WhenOpened": "2025-01-15T14:36:18.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContNou.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\GitHub_Repo\\StoreManagement\\GestionareMagazin-ProiectFinal\\Proiect2\\ContNou.cs",
+              "RelativeDocumentMoniker": "Proiect2\\ContNou.cs",
+              "ToolTip": "C:\\Users\\Natalia\\Desktop\\GitHub_Repo\\StoreManagement\\GestionareMagazin-ProiectFinal\\Proiect2\\ContNou.cs [Design]",
+              "RelativeToolTip": "Proiect2\\ContNou.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T22:31:51.439Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContNou.cs",
+              "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\GitHub_Repo\\StoreManagement\\GestionareMagazin-ProiectFinal\\Proiect2\\ContNou.cs",
+              "RelativeDocumentMoniker": "Proiect2\\ContNou.cs",
+              "ToolTip": "C:\\Users\\Natalia\\Desktop\\GitHub_Repo\\StoreManagement\\GestionareMagazin-ProiectFinal\\Proiect2\\ContNou.cs",
+              "RelativeToolTip": "Proiect2\\ContNou.cs",
+              "ViewState": "AgIAAB4AAACAmZmZmZkbwCUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T23:09:04.609Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "ResetareParola.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\GitHub_Repo\\StoreManagement\\GestionareMagazin-ProiectFinal\\Proiect2\\ResetareParola.cs",
               "RelativeDocumentMoniker": "Proiect2\\ResetareParola.cs",
@@ -158,28 +182,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Cumparare.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\GitHub_Repo\\StoreManagement\\GestionareMagazin-ProiectFinal\\Proiect2\\Cumparare.cs",
-              "RelativeDocumentMoniker": "Proiect2\\Cumparare.cs",
-              "ToolTip": "C:\\Users\\Natalia\\Desktop\\INFO an 2\\Medii si instrumente de programare\\GestionareMagazin-ProiectFinal\\Proiect2\\Cumparare.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\INFO an 2\\Medii si instrumente de programare\\GestionareMagazin-ProiectFinal\\Proiect2\\Cumparare.cs [Design]",
+              "Title": "UtilizatorForm.cs",
+              "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\GitHub_Repo\\StoreManagement\\GestionareMagazin-ProiectFinal\\Proiect2\\UtilizatorForm.cs",
+              "RelativeDocumentMoniker": "Proiect2\\UtilizatorForm.cs",
+              "ToolTip": "C:\\Users\\Natalia\\Desktop\\GitHub_Repo\\StoreManagement\\GestionareMagazin-ProiectFinal\\Proiect2\\UtilizatorForm.cs",
+              "RelativeToolTip": "Proiect2\\UtilizatorForm.cs",
+              "ViewState": "AgIAAA4AAACAZmZmZmY9wCQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T14:36:18.973Z"
+              "WhenOpened": "2025-01-14T18:26:16.861Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ContNou.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\GitHub_Repo\\StoreManagement\\GestionareMagazin-ProiectFinal\\Proiect2\\ContNou.cs",
-              "RelativeDocumentMoniker": "Proiect2\\ContNou.cs",
-              "ToolTip": "C:\\Users\\Natalia\\Desktop\\INFO an 2\\Medii si instrumente de programare\\GestionareMagazin-ProiectFinal\\Proiect2\\ContNou.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\INFO an 2\\Medii si instrumente de programare\\GestionareMagazin-ProiectFinal\\Proiect2\\ContNou.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T22:31:51.439Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\GitHub_Repo\\StoreManagement\\GestionareMagazin-ProiectFinal\\Proiect2\\App.config",
               "RelativeDocumentMoniker": "Proiect2\\App.config",
@@ -192,7 +206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "AdaugaProdus.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\GitHub_Repo\\StoreManagement\\GestionareMagazin-ProiectFinal\\Proiect2\\AdaugaProdus.cs",
               "RelativeDocumentMoniker": "Proiect2\\AdaugaProdus.cs",
@@ -203,7 +217,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Logare.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\GitHub_Repo\\StoreManagement\\GestionareMagazin-ProiectFinal\\Proiect2\\Logare.cs",
               "RelativeDocumentMoniker": "Proiect2\\Logare.cs",
@@ -214,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\GitHub_Repo\\StoreManagement\\GestionareMagazin-ProiectFinal\\Proiect2\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Proiect2\\Form1.Designer.cs",
@@ -226,7 +240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\GitHub_Repo\\StoreManagement\\GestionareMagazin-ProiectFinal\\Proiect2\\Program.cs",
               "RelativeDocumentMoniker": "Proiect2\\Program.cs",
@@ -238,7 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Form2.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\GitHub_Repo\\StoreManagement\\GestionareMagazin-ProiectFinal\\Proiect2\\Form2.cs",
               "RelativeDocumentMoniker": "Proiect2\\Form2.cs",
@@ -249,7 +263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Vanzare.cs",
               "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\GitHub_Repo\\StoreManagement\\GestionareMagazin-ProiectFinal\\Proiect2\\Vanzare.cs",
               "RelativeDocumentMoniker": "Proiect2\\Vanzare.cs",
@@ -257,11 +271,12 @@
               "RelativeToolTip": "Proiect2\\Vanzare.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T14:02:31.946Z"
+              "WhenOpened": "2025-01-15T14:02:31.946Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Logare.cs",
               "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\GitHub_Repo\\StoreManagement\\GestionareMagazin-ProiectFinal\\Proiect2\\Logare.cs",
               "RelativeDocumentMoniker": "Proiect2\\Logare.cs",
@@ -285,19 +300,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ContNou.cs",
-              "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\GitHub_Repo\\StoreManagement\\GestionareMagazin-ProiectFinal\\Proiect2\\ContNou.cs",
-              "RelativeDocumentMoniker": "Proiect2\\ContNou.cs",
-              "ToolTip": "C:\\Users\\Natalia\\Desktop\\GitHub_Repo\\StoreManagement\\GestionareMagazin-ProiectFinal\\Proiect2\\ContNou.cs",
-              "RelativeToolTip": "Proiect2\\ContNou.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T23:09:04.609Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Produs.cs",
               "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\GitHub_Repo\\StoreManagement\\GestionareMagazin-ProiectFinal\\Proiect2\\Produs.cs",
               "RelativeDocumentMoniker": "Proiect2\\Produs.cs",

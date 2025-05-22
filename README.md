@@ -54,3 +54,49 @@ The login page allows switching between languages:
     Open a terminal or GitHub Desktop and clone the project repository
 ```bash
 git clone https://github.com/your-username/StoreManagement.git
+
+---
+
+##  Screenshots
+
+###  Login Page
+![Login Page](images/login-page.png)  
+User and Admin login interface with language selection (RO/EN).
+
+---
+
+###  User Interface – View & Buy Products
+![User View Products](images/user-view-products.png)  
+User can view available products and initiate purchase.
+
+---
+
+###  User Interface – Purchase Example
+![User Purchase](images/user-purchase-confirmation.png)  
+Successful product purchase with confirmation message.
+
+---
+
+###  Admin – Register and Login
+![Admin Register and Login](images/admin-register-login.png)  
+Admin can add, update, or delete products.
+
+---
+
+###  Admin Panel – Manage Products
+![Admin Manage Products](images/admin-manage-products.png)  
+Admin can add, update, or delete products.
+
+---
+
+###  Admin Panel – Manage Users
+![Admin Manage Users](images/admin-manage-users.png)  
+Admin can delete users or manage their data by username.
+
+---
+
+###  Admin Panel – View Sales History
+![Admin Sales History](images/admin-sales-history.png)  
+Admin view of purchase history.
+
+---
