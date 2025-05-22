@@ -91,7 +91,7 @@ Admin can delete users or manage their data by username.
 Admin view of purchase history.
 
 ---
-##How to Run the App
+How to Run the App?
 
 Clone this repository: Open a terminal or GitHub Desktop and clone the project repository
 git clone https://github.com/your-username/StoreManagement.git
