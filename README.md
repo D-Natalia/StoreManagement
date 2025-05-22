@@ -60,37 +60,37 @@ git clone https://github.com/your-username/StoreManagement.git
 ##  Screenshots
 
 ###  Login Page
-![Login Page](images/login-page.png)  
+![Login Page](images/login-page)  
 User and Admin login interface with language selection (RO/EN).
 
 ---
 
 ###  User Interface – View & Buy Products
-![User View Products](images/user-view-products.png)  
+![User View Products](images/user-view-products)  
 User can view available products and initiate purchase.
 
 ---
 
 ###  User Interface – Purchase Example
-![User Purchase](images/user-purchase-confirmation.png)  
+![User Purchase](images/user-purchase-confirmation)  
 Successful product purchase with confirmation message.
 
 ---
 
 ###  Admin – Register and Login
-![Admin Register and Login](images/admin-register-login.png)  
+![Admin Register and Login](images/admin-register-login)  
 Admin can add, update, or delete products.
 
 ---
 
 ###  Admin Panel – Manage Products
-![Admin Manage Products](images/admin-manage-products.png)  
+![Admin Manage Products](images/admin-manage-products)  
 Admin can add, update, or delete products.
 
 ---
 
 ###  Admin Panel – Manage Users
-![Admin Manage Users](images/admin-manage-users.png)  
+![Admin Manage Users](images/admin-manage-users)  
 Admin can delete users or manage their data by username.
 
 ---
