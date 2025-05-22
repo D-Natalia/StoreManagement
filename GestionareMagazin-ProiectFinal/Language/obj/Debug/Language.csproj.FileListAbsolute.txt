@@ -1,0 +1,11 @@
+C:\Users\Natalia\Desktop\INFO an 2\Medii si instrumente de programare\Proiect2\Language\bin\Debug\Language.dll
+C:\Users\Natalia\Desktop\INFO an 2\Medii si instrumente de programare\Proiect2\Language\bin\Debug\Language.pdb
+C:\Users\Natalia\Desktop\INFO an 2\Medii si instrumente de programare\Proiect2\Language\bin\Debug\en\Language.resources.dll
+C:\Users\Natalia\Desktop\INFO an 2\Medii si instrumente de programare\Proiect2\Language\obj\Debug\Language.csproj.AssemblyReference.cache
+C:\Users\Natalia\Desktop\INFO an 2\Medii si instrumente de programare\Proiect2\Language\obj\Debug\Language.Strings.resources
+C:\Users\Natalia\Desktop\INFO an 2\Medii si instrumente de programare\Proiect2\Language\obj\Debug\Language.Strings.en.resources
+C:\Users\Natalia\Desktop\INFO an 2\Medii si instrumente de programare\Proiect2\Language\obj\Debug\Language.csproj.GenerateResource.cache
+C:\Users\Natalia\Desktop\INFO an 2\Medii si instrumente de programare\Proiect2\Language\obj\Debug\Language.csproj.CoreCompileInputs.cache
+C:\Users\Natalia\Desktop\INFO an 2\Medii si instrumente de programare\Proiect2\Language\obj\Debug\en\Language.resources.dll
+C:\Users\Natalia\Desktop\INFO an 2\Medii si instrumente de programare\Proiect2\Language\obj\Debug\Language.dll
+C:\Users\Natalia\Desktop\INFO an 2\Medii si instrumente de programare\Proiect2\Language\obj\Debug\Language.pdb

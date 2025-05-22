@@ -1,0 +1,16 @@
+C:\Users\Natalia\Desktop\INFO an 2\Medii si instrumente de programare\Proiect2\Languages\bin\Debug\net8.0\Languages.deps.json
+C:\Users\Natalia\Desktop\INFO an 2\Medii si instrumente de programare\Proiect2\Languages\bin\Debug\net8.0\Languages.dll
+C:\Users\Natalia\Desktop\INFO an 2\Medii si instrumente de programare\Proiect2\Languages\bin\Debug\net8.0\Languages.pdb
+C:\Users\Natalia\Desktop\INFO an 2\Medii si instrumente de programare\Proiect2\Languages\bin\Debug\net8.0\en\Languages.resources.dll
+C:\Users\Natalia\Desktop\INFO an 2\Medii si instrumente de programare\Proiect2\Languages\obj\Debug\net8.0\Languages.Strings.resources
+C:\Users\Natalia\Desktop\INFO an 2\Medii si instrumente de programare\Proiect2\Languages\obj\Debug\net8.0\Languages.Strings.en.resources
+C:\Users\Natalia\Desktop\INFO an 2\Medii si instrumente de programare\Proiect2\Languages\obj\Debug\net8.0\Languages.csproj.GenerateResource.cache
+C:\Users\Natalia\Desktop\INFO an 2\Medii si instrumente de programare\Proiect2\Languages\obj\Debug\net8.0\Languages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natalia\Desktop\INFO an 2\Medii si instrumente de programare\Proiect2\Languages\obj\Debug\net8.0\Languages.AssemblyInfoInputs.cache
+C:\Users\Natalia\Desktop\INFO an 2\Medii si instrumente de programare\Proiect2\Languages\obj\Debug\net8.0\Languages.AssemblyInfo.cs
+C:\Users\Natalia\Desktop\INFO an 2\Medii si instrumente de programare\Proiect2\Languages\obj\Debug\net8.0\Languages.csproj.CoreCompileInputs.cache
+C:\Users\Natalia\Desktop\INFO an 2\Medii si instrumente de programare\Proiect2\Languages\obj\Debug\net8.0\en\Languages.resources.dll
+C:\Users\Natalia\Desktop\INFO an 2\Medii si instrumente de programare\Proiect2\Languages\obj\Debug\net8.0\Languages.dll
+C:\Users\Natalia\Desktop\INFO an 2\Medii si instrumente de programare\Proiect2\Languages\obj\Debug\net8.0\refint\Languages.dll
+C:\Users\Natalia\Desktop\INFO an 2\Medii si instrumente de programare\Proiect2\Languages\obj\Debug\net8.0\Languages.pdb
+C:\Users\Natalia\Desktop\INFO an 2\Medii si instrumente de programare\Proiect2\Languages\obj\Debug\net8.0\ref\Languages.dll

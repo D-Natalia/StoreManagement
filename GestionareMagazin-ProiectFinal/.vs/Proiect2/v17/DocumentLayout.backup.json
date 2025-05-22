@@ -1,0 +1,354 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Natalia\\Desktop\\INFO an 2\\Medii si instrumente de programare\\GestionareMagazin-ProiectFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34322A39-F937-41DB-A894-BAF1BD8BA385}|Proiect2\\Proiect2.csproj|C:\\Users\\Natalia\\Desktop\\INFO an 2\\Medii si instrumente de programare\\GestionareMagazin-ProiectFinal\\proiect2\\logare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34322A39-F937-41DB-A894-BAF1BD8BA385}|Proiect2\\Proiect2.csproj|solutionrelative:proiect2\\logare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34322A39-F937-41DB-A894-BAF1BD8BA385}|Proiect2\\Proiect2.csproj|c:\\users\\natalia\\desktop\\info an 2\\medii si instrumente de programare\\gestionaremagazin-proiectfinal\\proiect2\\contnou.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34322A39-F937-41DB-A894-BAF1BD8BA385}|Proiect2\\Proiect2.csproj|solutionrelative:proiect2\\contnou.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34322A39-F937-41DB-A894-BAF1BD8BA385}|Proiect2\\Proiect2.csproj|C:\\Users\\Natalia\\Desktop\\INFO an 2\\Medii si instrumente de programare\\GestionareMagazin-ProiectFinal\\proiect2\\contnou.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{34322A39-F937-41DB-A894-BAF1BD8BA385}|Proiect2\\Proiect2.csproj|solutionrelative:proiect2\\contnou.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34322A39-F937-41DB-A894-BAF1BD8BA385}|Proiect2\\Proiect2.csproj|C:\\Users\\Natalia\\Desktop\\INFO an 2\\Medii si instrumente de programare\\GestionareMagazin-ProiectFinal\\proiect2\\utilizatorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{34322A39-F937-41DB-A894-BAF1BD8BA385}|Proiect2\\Proiect2.csproj|solutionrelative:proiect2\\utilizatorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34322A39-F937-41DB-A894-BAF1BD8BA385}|Proiect2\\Proiect2.csproj|C:\\Users\\Natalia\\Desktop\\INFO an 2\\Medii si instrumente de programare\\GestionareMagazin-ProiectFinal\\proiect2\\logare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{34322A39-F937-41DB-A894-BAF1BD8BA385}|Proiect2\\Proiect2.csproj|solutionrelative:proiect2\\logare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34322A39-F937-41DB-A894-BAF1BD8BA385}|Proiect2\\Proiect2.csproj|C:\\Users\\Natalia\\Desktop\\INFO an 2\\Medii si instrumente de programare\\GestionareMagazin-ProiectFinal\\proiect2\\resetareparola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{34322A39-F937-41DB-A894-BAF1BD8BA385}|Proiect2\\Proiect2.csproj|solutionrelative:proiect2\\resetareparola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34322A39-F937-41DB-A894-BAF1BD8BA385}|Proiect2\\Proiect2.csproj|C:\\Users\\Natalia\\Desktop\\INFO an 2\\Medii si instrumente de programare\\GestionareMagazin-ProiectFinal\\proiect2\\produs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34322A39-F937-41DB-A894-BAF1BD8BA385}|Proiect2\\Proiect2.csproj|solutionrelative:proiect2\\produs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34322A39-F937-41DB-A894-BAF1BD8BA385}|Proiect2\\Proiect2.csproj|C:\\Users\\Natalia\\Desktop\\INFO an 2\\Medii si instrumente de programare\\GestionareMagazin-ProiectFinal\\proiect2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{34322A39-F937-41DB-A894-BAF1BD8BA385}|Proiect2\\Proiect2.csproj|solutionrelative:proiect2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34322A39-F937-41DB-A894-BAF1BD8BA385}|Proiect2\\Proiect2.csproj|C:\\Users\\Natalia\\Desktop\\INFO an 2\\Medii si instrumente de programare\\GestionareMagazin-ProiectFinal\\proiect2\\cumparare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34322A39-F937-41DB-A894-BAF1BD8BA385}|Proiect2\\Proiect2.csproj|solutionrelative:proiect2\\cumparare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34322A39-F937-41DB-A894-BAF1BD8BA385}|Proiect2\\Proiect2.csproj|C:\\Users\\Natalia\\Desktop\\INFO an 2\\Medii si instrumente de programare\\GestionareMagazin-ProiectFinal\\proiect2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34322A39-F937-41DB-A894-BAF1BD8BA385}|Proiect2\\Proiect2.csproj|solutionrelative:proiect2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34322A39-F937-41DB-A894-BAF1BD8BA385}|Proiect2\\Proiect2.csproj|C:\\Users\\Natalia\\Desktop\\INFO an 2\\Medii si instrumente de programare\\GestionareMagazin-ProiectFinal\\proiect2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{34322A39-F937-41DB-A894-BAF1BD8BA385}|Proiect2\\Proiect2.csproj|solutionrelative:proiect2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34322A39-F937-41DB-A894-BAF1BD8BA385}|Proiect2\\Proiect2.csproj|C:\\Users\\Natalia\\Desktop\\INFO an 2\\Medii si instrumente de programare\\GestionareMagazin-ProiectFinal\\proiect2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34322A39-F937-41DB-A894-BAF1BD8BA385}|Proiect2\\Proiect2.csproj|solutionrelative:proiect2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34322A39-F937-41DB-A894-BAF1BD8BA385}|Proiect2\\Proiect2.csproj|C:\\Users\\Natalia\\Desktop\\INFO an 2\\Medii si instrumente de programare\\GestionareMagazin-ProiectFinal\\proiect2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{34322A39-F937-41DB-A894-BAF1BD8BA385}|Proiect2\\Proiect2.csproj|solutionrelative:proiect2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34322A39-F937-41DB-A894-BAF1BD8BA385}|Proiect2\\Proiect2.csproj|C:\\Users\\Natalia\\Desktop\\INFO an 2\\Medii si instrumente de programare\\GestionareMagazin-ProiectFinal\\proiect2\\adaugaprodus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34322A39-F937-41DB-A894-BAF1BD8BA385}|Proiect2\\Proiect2.csproj|solutionrelative:proiect2\\adaugaprodus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34322A39-F937-41DB-A894-BAF1BD8BA385}|Proiect2\\Proiect2.csproj|C:\\Users\\Natalia\\Desktop\\INFO an 2\\Medii si instrumente de programare\\GestionareMagazin-ProiectFinal\\proiect2\\cumparare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{34322A39-F937-41DB-A894-BAF1BD8BA385}|Proiect2\\Proiect2.csproj|solutionrelative:proiect2\\cumparare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34322A39-F937-41DB-A894-BAF1BD8BA385}|Proiect2\\Proiect2.csproj|C:\\Users\\Natalia\\Desktop\\INFO an 2\\Medii si instrumente de programare\\GestionareMagazin-ProiectFinal\\proiect2\\vanzare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34322A39-F937-41DB-A894-BAF1BD8BA385}|Proiect2\\Proiect2.csproj|solutionrelative:proiect2\\vanzare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34322A39-F937-41DB-A894-BAF1BD8BA385}|Proiect2\\Proiect2.csproj|C:\\Users\\Natalia\\Desktop\\INFO an 2\\Medii si instrumente de programare\\GestionareMagazin-ProiectFinal\\proiect2\\vanzare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{34322A39-F937-41DB-A894-BAF1BD8BA385}|Proiect2\\Proiect2.csproj|solutionrelative:proiect2\\vanzare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34322A39-F937-41DB-A894-BAF1BD8BA385}|Proiect2\\Proiect2.csproj|C:\\Users\\Natalia\\Desktop\\INFO an 2\\Medii si instrumente de programare\\GestionareMagazin-ProiectFinal\\proiect2\\adaugaprodus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{34322A39-F937-41DB-A894-BAF1BD8BA385}|Proiect2\\Proiect2.csproj|solutionrelative:proiect2\\adaugaprodus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34322A39-F937-41DB-A894-BAF1BD8BA385}|Proiect2\\Proiect2.csproj|C:\\Users\\Natalia\\Desktop\\INFO an 2\\Medii si instrumente de programare\\GestionareMagazin-ProiectFinal\\proiect2\\resetareparola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34322A39-F937-41DB-A894-BAF1BD8BA385}|Proiect2\\Proiect2.csproj|solutionrelative:proiect2\\resetareparola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{949CF619-1A36-4456-8018-CB6286D57427}|Language\\Language.csproj|C:\\Users\\Natalia\\Desktop\\INFO an 2\\Medii si instrumente de programare\\GestionareMagazin-ProiectFinal\\language\\strings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{949CF619-1A36-4456-8018-CB6286D57427}|Language\\Language.csproj|solutionrelative:language\\strings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34322A39-F937-41DB-A894-BAF1BD8BA385}|Proiect2\\Proiect2.csproj|C:\\Users\\Natalia\\Desktop\\INFO an 2\\Medii si instrumente de programare\\GestionareMagazin-ProiectFinal\\proiect2\\utilizatorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34322A39-F937-41DB-A894-BAF1BD8BA385}|Proiect2\\Proiect2.csproj|solutionrelative:proiect2\\utilizatorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cumparare.cs",
+              "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\INFO an 2\\Medii si instrumente de programare\\GestionareMagazin-ProiectFinal\\Proiect2\\Cumparare.cs",
+              "RelativeDocumentMoniker": "Proiect2\\Cumparare.cs",
+              "ToolTip": "C:\\Users\\Natalia\\Desktop\\INFO an 2\\Medii si instrumente de programare\\GestionareMagazin-ProiectFinal\\Proiect2\\Cumparare.cs",
+              "RelativeToolTip": "Proiect2\\Cumparare.cs",
+              "ViewState": "AgIAABEAAACAmZmZmZkdwBcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:36:28.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Cumparare.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\INFO an 2\\Medii si instrumente de programare\\GestionareMagazin-ProiectFinal\\Proiect2\\Cumparare.cs",
+              "RelativeDocumentMoniker": "Proiect2\\Cumparare.cs",
+              "ToolTip": "C:\\Users\\Natalia\\Desktop\\INFO an 2\\Medii si instrumente de programare\\GestionareMagazin-ProiectFinal\\Proiect2\\Cumparare.cs [Design]",
+              "RelativeToolTip": "Proiect2\\Cumparare.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:36:18.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContNou.cs",
+              "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\INFO an 2\\Medii si instrumente de programare\\GestionareMagazin-ProiectFinal\\Proiect2\\ContNou.cs",
+              "RelativeDocumentMoniker": "Proiect2\\ContNou.cs",
+              "ToolTip": "C:\\Users\\Natalia\\Desktop\\INFO an 2\\Medii si instrumente de programare\\GestionareMagazin-ProiectFinal\\Proiect2\\ContNou.cs",
+              "RelativeToolTip": "Proiect2\\ContNou.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T23:09:04.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Logare.cs",
+              "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\INFO an 2\\Medii si instrumente de programare\\GestionareMagazin-ProiectFinal\\Proiect2\\Logare.cs",
+              "RelativeDocumentMoniker": "Proiect2\\Logare.cs",
+              "ToolTip": "C:\\Users\\Natalia\\Desktop\\INFO an 2\\Medii si instrumente de programare\\GestionareMagazin-ProiectFinal\\Proiect2\\Logare.cs",
+              "RelativeToolTip": "Proiect2\\Logare.cs",
+              "ViewState": "AgIAAC8AAACAZmZmZmYgwDsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T22:53:57.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\INFO an 2\\Medii si instrumente de programare\\GestionareMagazin-ProiectFinal\\Proiect2\\Form2.cs",
+              "RelativeDocumentMoniker": "Proiect2\\Form2.cs",
+              "ToolTip": "C:\\Users\\Natalia\\Desktop\\INFO an 2\\Medii si instrumente de programare\\Proiect2\\Proiect2\\Form2.cs [Design]",
+              "RelativeToolTip": "..\\Proiect2\\Proiect2\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T17:51:03.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\INFO an 2\\Medii si instrumente de programare\\GestionareMagazin-ProiectFinal\\Proiect2\\Form2.cs",
+              "RelativeDocumentMoniker": "Proiect2\\Form2.cs",
+              "ToolTip": "C:\\Users\\Natalia\\Desktop\\INFO an 2\\Medii si instrumente de programare\\GestionareMagazin-ProiectFinal\\Proiect2\\Form2.cs",
+              "RelativeToolTip": "Proiect2\\Form2.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwBYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T17:51:12.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Vanzare.cs",
+              "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\INFO an 2\\Medii si instrumente de programare\\GestionareMagazin-ProiectFinal\\Proiect2\\Vanzare.cs",
+              "RelativeDocumentMoniker": "Proiect2\\Vanzare.cs",
+              "ToolTip": "C:\\Users\\Natalia\\Desktop\\INFO an 2\\Medii si instrumente de programare\\GestionareMagazin-ProiectFinal\\Proiect2\\Vanzare.cs",
+              "RelativeToolTip": "Proiect2\\Vanzare.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:02:31.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Vanzare.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\INFO an 2\\Medii si instrumente de programare\\GestionareMagazin-ProiectFinal\\Proiect2\\Vanzare.cs",
+              "RelativeDocumentMoniker": "Proiect2\\Vanzare.cs",
+              "ToolTip": "C:\\Users\\Natalia\\Desktop\\INFO an 2\\Medii si instrumente de programare\\Proiect2\\Proiect2\\Vanzare.cs [Design]",
+              "RelativeToolTip": "..\\Proiect2\\Proiect2\\Vanzare.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:02:30.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\INFO an 2\\Medii si instrumente de programare\\GestionareMagazin-ProiectFinal\\Proiect2\\App.config",
+              "RelativeDocumentMoniker": "Proiect2\\App.config",
+              "ToolTip": "C:\\Users\\Natalia\\Desktop\\INFO an 2\\Medii si instrumente de programare\\GestionareMagazin-ProiectFinal\\Proiect2\\App.config",
+              "RelativeToolTip": "Proiect2\\App.config",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwBcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-15T12:18:35.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResetareParola.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\INFO an 2\\Medii si instrumente de programare\\GestionareMagazin-ProiectFinal\\Proiect2\\ResetareParola.cs",
+              "RelativeDocumentMoniker": "Proiect2\\ResetareParola.cs",
+              "ToolTip": "C:\\Users\\Natalia\\Desktop\\INFO an 2\\Medii si instrumente de programare\\GestionareMagazin-ProiectFinal\\Proiect2\\ResetareParola.cs [Design]",
+              "RelativeToolTip": "Proiect2\\ResetareParola.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T20:27:31.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Strings.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\INFO an 2\\Medii si instrumente de programare\\GestionareMagazin-ProiectFinal\\Language\\Strings.Designer.cs",
+              "RelativeDocumentMoniker": "Language\\Strings.Designer.cs",
+              "ToolTip": "C:\\Users\\Natalia\\Desktop\\INFO an 2\\Medii si instrumente de programare\\GestionareMagazin-ProiectFinal\\Language\\Strings.Designer.cs",
+              "RelativeToolTip": "Language\\Strings.Designer.cs",
+              "ViewState": "AgIAACkAAACAmpmZmZkpwJsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T07:15:37.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ResetareParola.cs",
+              "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\INFO an 2\\Medii si instrumente de programare\\GestionareMagazin-ProiectFinal\\Proiect2\\ResetareParola.cs",
+              "RelativeDocumentMoniker": "Proiect2\\ResetareParola.cs",
+              "ToolTip": "C:\\Users\\Natalia\\Desktop\\INFO an 2\\Medii si instrumente de programare\\GestionareMagazin-ProiectFinal\\Proiect2\\ResetareParola.cs",
+              "RelativeToolTip": "Proiect2\\ResetareParola.cs",
+              "ViewState": "AgIAABYAAAAAaGZmZmb2vzYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T20:33:40.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\INFO an 2\\Medii si instrumente de programare\\GestionareMagazin-ProiectFinal\\Proiect2\\Form1.cs",
+              "RelativeDocumentMoniker": "Proiect2\\Form1.cs",
+              "ToolTip": "C:\\Users\\Natalia\\Desktop\\INFO an 2\\Medii si instrumente de programare\\Proiect2\\Proiect2\\Form1.cs*",
+              "RelativeToolTip": "..\\Proiect2\\Proiect2\\Form1.cs*",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAmwJEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T18:32:54.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UtilizatorForm.cs",
+              "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\INFO an 2\\Medii si instrumente de programare\\GestionareMagazin-ProiectFinal\\Proiect2\\UtilizatorForm.cs",
+              "RelativeDocumentMoniker": "Proiect2\\UtilizatorForm.cs",
+              "ToolTip": "C:\\Users\\Natalia\\Desktop\\INFO an 2\\Medii si instrumente de programare\\GestionareMagazin-ProiectFinal\\Proiect2\\UtilizatorForm.cs",
+              "RelativeToolTip": "Proiect2\\UtilizatorForm.cs",
+              "ViewState": "AgIAABYAAAAAmZmZmZkfwBoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T18:26:16.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UtilizatorForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\INFO an 2\\Medii si instrumente de programare\\GestionareMagazin-ProiectFinal\\Proiect2\\UtilizatorForm.cs",
+              "RelativeDocumentMoniker": "Proiect2\\UtilizatorForm.cs",
+              "ToolTip": "C:\\Users\\Natalia\\Desktop\\INFO an 2\\Medii si instrumente de programare\\GestionareMagazin-ProiectFinal\\Proiect2\\UtilizatorForm.cs [Design]",
+              "RelativeToolTip": "Proiect2\\UtilizatorForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T18:25:25.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContNou.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\INFO an 2\\Medii si instrumente de programare\\GestionareMagazin-ProiectFinal\\Proiect2\\ContNou.cs",
+              "RelativeDocumentMoniker": "Proiect2\\ContNou.cs",
+              "ToolTip": "C:\\Users\\Natalia\\Desktop\\INFO an 2\\Medii si instrumente de programare\\GestionareMagazin-ProiectFinal\\Proiect2\\ContNou.cs [Design]",
+              "RelativeToolTip": "Proiect2\\ContNou.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T22:31:51.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdaugaProdus.cs",
+              "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\INFO an 2\\Medii si instrumente de programare\\GestionareMagazin-ProiectFinal\\Proiect2\\AdaugaProdus.cs",
+              "RelativeDocumentMoniker": "Proiect2\\AdaugaProdus.cs",
+              "ToolTip": "C:\\Users\\Natalia\\Desktop\\INFO an 2\\Medii si instrumente de programare\\Proiect2\\Proiect2\\AdaugaProdus.cs*",
+              "RelativeToolTip": "..\\Proiect2\\Proiect2\\AdaugaProdus.cs*",
+              "ViewState": "AgIAACQAAAAANDMzMzPzvz0AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T19:38:20.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AdaugaProdus.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\INFO an 2\\Medii si instrumente de programare\\GestionareMagazin-ProiectFinal\\Proiect2\\AdaugaProdus.cs",
+              "RelativeDocumentMoniker": "Proiect2\\AdaugaProdus.cs",
+              "ToolTip": "C:\\Users\\Natalia\\Desktop\\INFO an 2\\Medii si instrumente de programare\\Proiect2\\Proiect2\\AdaugaProdus.cs [Design]*",
+              "RelativeToolTip": "..\\Proiect2\\Proiect2\\AdaugaProdus.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T19:37:16.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Logare.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\INFO an 2\\Medii si instrumente de programare\\GestionareMagazin-ProiectFinal\\Proiect2\\Logare.cs",
+              "RelativeDocumentMoniker": "Proiect2\\Logare.cs",
+              "ToolTip": "C:\\Users\\Natalia\\Desktop\\INFO an 2\\Medii si instrumente de programare\\GestionareMagazin-ProiectFinal\\Proiect2\\Logare.cs [Design]",
+              "RelativeToolTip": "Proiect2\\Logare.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T22:22:40.281Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Produs.cs",
+              "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\INFO an 2\\Medii si instrumente de programare\\GestionareMagazin-ProiectFinal\\Proiect2\\Produs.cs",
+              "RelativeDocumentMoniker": "Proiect2\\Produs.cs",
+              "ToolTip": "C:\\Users\\Natalia\\Desktop\\INFO an 2\\Medii si instrumente de programare\\GestionareMagazin-ProiectFinal\\Proiect2\\Produs.cs",
+              "RelativeToolTip": "Proiect2\\Produs.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAA3wFMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T18:09:32.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\INFO an 2\\Medii si instrumente de programare\\GestionareMagazin-ProiectFinal\\Proiect2\\Form1.cs",
+              "RelativeDocumentMoniker": "Proiect2\\Form1.cs",
+              "ToolTip": "C:\\Users\\Natalia\\Desktop\\INFO an 2\\Medii si instrumente de programare\\Proiect2\\Proiect2\\Form1.cs [Design]*",
+              "RelativeToolTip": "..\\Proiect2\\Proiect2\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T16:59:38.818Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
