@@ -52,4 +52,5 @@ The login page allows switching between languages:
 ##  Screenshots
 
 ###  Login Page
+![Login Page](images/login-page.png)  
 User and Admin login interface with language selection (RO/EN).
