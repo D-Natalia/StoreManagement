@@ -29,3 +29,34 @@ C:\Users\Natalia\Desktop\INFO an 2\Medii si instrumente de programare\Proiect2\P
 C:\Users\Natalia\Desktop\INFO an 2\Medii si instrumente de programare\Proiect2\Proiect2\bin\Debug\Language.dll
 C:\Users\Natalia\Desktop\INFO an 2\Medii si instrumente de programare\Proiect2\Proiect2\bin\Debug\Language.pdb
 C:\Users\Natalia\Desktop\INFO an 2\Medii si instrumente de programare\Proiect2\Proiect2\bin\Debug\en\Language.resources.dll
+C:\Users\Natalia\Desktop\GitHub_Repo\StoreManagement\GestionareMagazin-ProiectFinal\Proiect2\bin\Debug\magazin.sqlite
+C:\Users\Natalia\Desktop\GitHub_Repo\StoreManagement\GestionareMagazin-ProiectFinal\Proiect2\bin\Debug\Proiect2.exe.config
+C:\Users\Natalia\Desktop\GitHub_Repo\StoreManagement\GestionareMagazin-ProiectFinal\Proiect2\bin\Debug\Proiect2.exe
+C:\Users\Natalia\Desktop\GitHub_Repo\StoreManagement\GestionareMagazin-ProiectFinal\Proiect2\bin\Debug\Proiect2.pdb
+C:\Users\Natalia\Desktop\GitHub_Repo\StoreManagement\GestionareMagazin-ProiectFinal\Proiect2\bin\Debug\EntityFramework.dll
+C:\Users\Natalia\Desktop\GitHub_Repo\StoreManagement\GestionareMagazin-ProiectFinal\Proiect2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Natalia\Desktop\GitHub_Repo\StoreManagement\GestionareMagazin-ProiectFinal\Proiect2\bin\Debug\Language.dll
+C:\Users\Natalia\Desktop\GitHub_Repo\StoreManagement\GestionareMagazin-ProiectFinal\Proiect2\bin\Debug\System.Data.SQLite.dll
+C:\Users\Natalia\Desktop\GitHub_Repo\StoreManagement\GestionareMagazin-ProiectFinal\Proiect2\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Natalia\Desktop\GitHub_Repo\StoreManagement\GestionareMagazin-ProiectFinal\Proiect2\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Natalia\Desktop\GitHub_Repo\StoreManagement\GestionareMagazin-ProiectFinal\Proiect2\bin\Debug\Language.pdb
+C:\Users\Natalia\Desktop\GitHub_Repo\StoreManagement\GestionareMagazin-ProiectFinal\Proiect2\bin\Debug\EntityFramework.xml
+C:\Users\Natalia\Desktop\GitHub_Repo\StoreManagement\GestionareMagazin-ProiectFinal\Proiect2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Natalia\Desktop\GitHub_Repo\StoreManagement\GestionareMagazin-ProiectFinal\Proiect2\bin\Debug\System.Data.SQLite.xml
+C:\Users\Natalia\Desktop\GitHub_Repo\StoreManagement\GestionareMagazin-ProiectFinal\Proiect2\bin\Debug\en\Language.resources.dll
+C:\Users\Natalia\Desktop\GitHub_Repo\StoreManagement\GestionareMagazin-ProiectFinal\Proiect2\obj\Debug\Proiect2.csproj.AssemblyReference.cache
+C:\Users\Natalia\Desktop\GitHub_Repo\StoreManagement\GestionareMagazin-ProiectFinal\Proiect2\obj\Debug\Proiect2.AdaugaProdus.resources
+C:\Users\Natalia\Desktop\GitHub_Repo\StoreManagement\GestionareMagazin-ProiectFinal\Proiect2\obj\Debug\Proiect2.ContNou.resources
+C:\Users\Natalia\Desktop\GitHub_Repo\StoreManagement\GestionareMagazin-ProiectFinal\Proiect2\obj\Debug\Proiect2.Cumparare.resources
+C:\Users\Natalia\Desktop\GitHub_Repo\StoreManagement\GestionareMagazin-ProiectFinal\Proiect2\obj\Debug\Proiect2.Form1.resources
+C:\Users\Natalia\Desktop\GitHub_Repo\StoreManagement\GestionareMagazin-ProiectFinal\Proiect2\obj\Debug\Proiect2.Form2.resources
+C:\Users\Natalia\Desktop\GitHub_Repo\StoreManagement\GestionareMagazin-ProiectFinal\Proiect2\obj\Debug\Proiect2.Logare.resources
+C:\Users\Natalia\Desktop\GitHub_Repo\StoreManagement\GestionareMagazin-ProiectFinal\Proiect2\obj\Debug\Proiect2.Properties.Resources.resources
+C:\Users\Natalia\Desktop\GitHub_Repo\StoreManagement\GestionareMagazin-ProiectFinal\Proiect2\obj\Debug\Proiect2.ResetareParola.resources
+C:\Users\Natalia\Desktop\GitHub_Repo\StoreManagement\GestionareMagazin-ProiectFinal\Proiect2\obj\Debug\Proiect2.UtilizatorForm.resources
+C:\Users\Natalia\Desktop\GitHub_Repo\StoreManagement\GestionareMagazin-ProiectFinal\Proiect2\obj\Debug\Proiect2.Vanzare.resources
+C:\Users\Natalia\Desktop\GitHub_Repo\StoreManagement\GestionareMagazin-ProiectFinal\Proiect2\obj\Debug\Proiect2.csproj.GenerateResource.cache
+C:\Users\Natalia\Desktop\GitHub_Repo\StoreManagement\GestionareMagazin-ProiectFinal\Proiect2\obj\Debug\Proiect2.csproj.CoreCompileInputs.cache
+C:\Users\Natalia\Desktop\GitHub_Repo\StoreManagement\GestionareMagazin-ProiectFinal\Proiect2\obj\Debug\Proiect2.csproj.Up2Date
+C:\Users\Natalia\Desktop\GitHub_Repo\StoreManagement\GestionareMagazin-ProiectFinal\Proiect2\obj\Debug\Proiect2.exe
+C:\Users\Natalia\Desktop\GitHub_Repo\StoreManagement\GestionareMagazin-ProiectFinal\Proiect2\obj\Debug\Proiect2.pdb

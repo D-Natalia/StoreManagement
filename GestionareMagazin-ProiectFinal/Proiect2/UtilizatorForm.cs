@@ -35,7 +35,7 @@ namespace Proiect2
 
         private void btnVinde_Click(object sender, EventArgs e)
         {
-            Vanzare ap = new Vanzare();
+            Cumparare ap = new Cumparare();
             ap.ShowDialog();
         }
 

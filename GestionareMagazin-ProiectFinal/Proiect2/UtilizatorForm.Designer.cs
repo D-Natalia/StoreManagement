@@ -52,7 +52,7 @@
             this.btnVinde.Name = "btnVinde";
             this.btnVinde.Size = new System.Drawing.Size(97, 53);
             this.btnVinde.TabIndex = 1;
-            this.btnVinde.Text = "Vinde Produs";
+            this.btnVinde.Text = "Cumpara Produs";
             this.btnVinde.UseVisualStyleBackColor = true;
             this.btnVinde.Click += new System.EventHandler(this.btnVinde_Click);
             // 
