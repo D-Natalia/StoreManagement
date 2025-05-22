@@ -48,14 +48,6 @@ The login page allows switching between languages:
 - Multilingual interface (localization using resource files)
 
 
-##  How to Run the App
-
-1. Clone this repository:
-    Open a terminal or GitHub Desktop and clone the project repository
-```bash
-git clone https://github.com/your-username/StoreManagement.git
-
----
 
 ##  Screenshots
 
